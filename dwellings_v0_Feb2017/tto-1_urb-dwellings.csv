@@ -1,0 +1,645 @@
+id,Region,Taxonomy,Dwellings
+AREA # 11,City of Port of Spain,CR/LFINF+DNO/HEX:2,132.2
+AREA # 11,City of Port of Spain,CR/LFINF+DNO/HEX:3,157.2
+AREA # 11,City of Port of Spain,CR/LFINF+DNO/HEX:4,94.4
+AREA # 11,City of Port of Spain,CR/LFINF+DNO/HEX:5,94.4
+AREA # 11,City of Port of Spain,CR/LFINF+DUC/HEX:2,187.0
+AREA # 11,City of Port of Spain,CR/LFINF+DUC/HEX:3,62.9
+AREA # 11,City of Port of Spain,CR/LFINF+DUC/HEX:4,31.4
+AREA # 11,City of Port of Spain,CR/LFINF+DUC/HEX:5,31.4
+AREA # 11,City of Port of Spain,CR/LFM+DNO/HEX:1,157.4
+AREA # 11,City of Port of Spain,CR/LFM+DNO/HEX:2,713.6
+AREA # 11,City of Port of Spain,MCF/LWAL+DNO/HEX:1,278.5
+AREA # 11,City of Port of Spain,MCF/LWAL+DNO/HEX:2,750.2
+AREA # 11,City of Port of Spain,MCF/LWAL+DNO/HEX:3,314.5
+AREA # 11,City of Port of Spain,MCF/LWAL+DUC/HEX:1,110.7
+AREA # 11,City of Port of Spain,MCF/LWAL+DUC/HEX:2,289.4
+AREA # 11,City of Port of Spain,MCF/LWAL+DUC/HEX:3,157.2
+AREA # 11,City of Port of Spain,MR/LWAL+DNO/HEX:1,923.0
+AREA # 11,City of Port of Spain,MR/LWAL+DNO/HEX:2,1424.2
+AREA # 11,City of Port of Spain,MR/LWAL+DNO/HEX:3,806.5
+AREA # 11,City of Port of Spain,MR/LWAL+DUC/HEX:1,111.8
+AREA # 11,City of Port of Spain,MR/LWAL+DUC/HEX:2,313.7
+AREA # 11,City of Port of Spain,MR/LWAL+DUC/HEX:3,197.8
+AREA # 11,City of Port of Spain,MUR+ADO/LWAL+DNO/HEX:1,17.2
+AREA # 11,City of Port of Spain,MUR+ADO/LWAL+DNO/HEX:2,22.2
+AREA # 11,City of Port of Spain,MUR/LWAL+DNO/HEX:1,980.0
+AREA # 11,City of Port of Spain,MUR/LWAL+DNO/HEX:2,1573.4
+AREA # 11,City of Port of Spain,UNK/HEX:1,32.0
+AREA # 11,City of Port of Spain,W+WLI/LDUAL+DNO/HEX:1,393.3
+AREA # 11,City of Port of Spain,W+WLI/LDUAL+DNO/HEX:2,588.2
+AREA # 11,City of Port of Spain,W+WLI/LFM+DNO/HEX:2/SOS,251.3
+AREA # 11,City of Port of Spain,W+WS/LPB+DNO/HEX:1,295.6
+AREA # 11,City of Port of Spain,W+WS/LPB+DNO/HEX:2,367.8
+AREA # 11,City of Port of Spain,W+WWD/LWAL+DNO/HEX:1,43.6
+AREA # 12,City of San Fernando,CR/LFINF+DNO/HEX:2,157.5
+AREA # 12,City of San Fernando,CR/LFINF+DNO/HEX:3,140.4
+AREA # 12,City of San Fernando,CR/LFINF+DNO/HEX:4,84.2
+AREA # 12,City of San Fernando,CR/LFINF+DNO/HEX:5,84.2
+AREA # 12,City of San Fernando,CR/LFINF+DUC/HEX:2,228.7
+AREA # 12,City of San Fernando,CR/LFINF+DUC/HEX:3,56.1
+AREA # 12,City of San Fernando,CR/LFINF+DUC/HEX:4,28.1
+AREA # 12,City of San Fernando,CR/LFINF+DUC/HEX:5,28.1
+AREA # 12,City of San Fernando,CR/LFM+DNO/HEX:1,195.7
+AREA # 12,City of San Fernando,CR/LFM+DNO/HEX:2,887.0
+AREA # 12,City of San Fernando,MCF/LWAL+DNO/HEX:1,356.2
+AREA # 12,City of San Fernando,MCF/LWAL+DNO/HEX:2,882.2
+AREA # 12,City of San Fernando,MCF/LWAL+DNO/HEX:3,280.7
+AREA # 12,City of San Fernando,MCF/LWAL+DUC/HEX:1,142.4
+AREA # 12,City of San Fernando,MCF/LWAL+DUC/HEX:2,297.9
+AREA # 12,City of San Fernando,MCF/LWAL+DUC/HEX:3,140.4
+AREA # 12,City of San Fernando,MR/LWAL+DNO/HEX:1,1174.6
+AREA # 12,City of San Fernando,MR/LWAL+DNO/HEX:2,1619.2
+AREA # 12,City of San Fernando,MR/LWAL+DNO/HEX:3,726.4
+AREA # 12,City of San Fernando,MR/LWAL+DUC/HEX:1,142.5
+AREA # 12,City of San Fernando,MR/LWAL+DUC/HEX:2,328.4
+AREA # 12,City of San Fernando,MR/LWAL+DUC/HEX:3,189.6
+AREA # 12,City of San Fernando,MUR+ADO/LWAL+DNO/HEX:1,12.6
+AREA # 12,City of San Fernando,MUR+ADO/LWAL+DNO/HEX:2,12.6
+AREA # 12,City of San Fernando,MUR/LWAL+DNO/HEX:1,1256.2
+AREA # 12,City of San Fernando,MUR/LWAL+DNO/HEX:2,1747.8
+AREA # 12,City of San Fernando,UNK/HEX:1,40.0
+AREA # 12,City of San Fernando,W+WLI/LDUAL+DNO/HEX:1,521.0
+AREA # 12,City of San Fernando,W+WLI/LDUAL+DNO/HEX:2,743.2
+AREA # 12,City of San Fernando,W+WLI/LFM+DNO/HEX:2/SOS,315.0
+AREA # 12,City of San Fernando,W+WS/LPB+DNO/HEX:1,398.7
+AREA # 12,City of San Fernando,W+WS/LPB+DNO/HEX:2,479.9
+AREA # 12,City of San Fernando,W+WWD/LWAL+DNO/HEX:1,37.8
+AREA # 21,Borough of Arima,CR/LFINF+DNO/HEX:2,110.3
+AREA # 21,Borough of Arima,CR/LFINF+DNO/HEX:3,32.6
+AREA # 21,Borough of Arima,CR/LFINF+DNO/HEX:4,19.5
+AREA # 21,Borough of Arima,CR/LFINF+DNO/HEX:5,19.5
+AREA # 21,Borough of Arima,CR/LFINF+DUC/HEX:2,159.8
+AREA # 21,Borough of Arima,CR/LFINF+DUC/HEX:3,13.0
+AREA # 21,Borough of Arima,CR/LFINF+DUC/HEX:4,6.5
+AREA # 21,Borough of Arima,CR/LFINF+DUC/HEX:5,6.5
+AREA # 21,Borough of Arima,CR/LFM+DNO/HEX:1,127.2
+AREA # 21,Borough of Arima,CR/LFM+DNO/HEX:2,559.2
+AREA # 21,Borough of Arima,MCF/LWAL+DNO/HEX:1,248.7
+AREA # 21,Borough of Arima,MCF/LWAL+DNO/HEX:2,550.2
+AREA # 21,Borough of Arima,MCF/LWAL+DNO/HEX:3,65.1
+AREA # 21,Borough of Arima,MCF/LWAL+DUC/HEX:1,99.3
+AREA # 21,Borough of Arima,MCF/LWAL+DUC/HEX:2,142.9
+AREA # 21,Borough of Arima,MCF/LWAL+DUC/HEX:3,32.6
+AREA # 21,Borough of Arima,MR/LWAL+DNO/HEX:1,800.4
+AREA # 21,Borough of Arima,MR/LWAL+DNO/HEX:2,942.0
+AREA # 21,Borough of Arima,MR/LWAL+DNO/HEX:3,166.6
+AREA # 21,Borough of Arima,MR/LWAL+DUC/HEX:1,99.6
+AREA # 21,Borough of Arima,MR/LWAL+DUC/HEX:2,147.3
+AREA # 21,Borough of Arima,MR/LWAL+DUC/HEX:3,40.4
+AREA # 21,Borough of Arima,MUR+ADO/LWAL+DNO/HEX:1,40.6
+AREA # 21,Borough of Arima,MUR+ADO/LWAL+DNO/HEX:2,45.3
+AREA # 21,Borough of Arima,MUR/LWAL+DNO/HEX:1,827.6
+AREA # 21,Borough of Arima,MUR/LWAL+DNO/HEX:2,973.5
+AREA # 21,Borough of Arima,UNK/HEX:1,134.0
+AREA # 21,Borough of Arima,W+WLI/LDUAL+DNO/HEX:1,233.8
+AREA # 21,Borough of Arima,W+WLI/LDUAL+DNO/HEX:2,272.9
+AREA # 21,Borough of Arima,W+WLI/LFM+DNO/HEX:2/SOS,127.4
+AREA # 21,Borough of Arima,W+WS/LPB+DNO/HEX:1,157.4
+AREA # 21,Borough of Arima,W+WS/LPB+DNO/HEX:2,172.3
+AREA # 21,Borough of Arima,W+WWD/LWAL+DNO/HEX:1,114.1
+AREA # 22,Borough of Chaguanas,CR/LFINF+DNO/HEX:2,229.3
+AREA # 22,Borough of Chaguanas,CR/LFINF+DNO/HEX:3,93.6
+AREA # 22,Borough of Chaguanas,CR/LFINF+DNO/HEX:4,56.2
+AREA # 22,Borough of Chaguanas,CR/LFINF+DNO/HEX:5,56.2
+AREA # 22,Borough of Chaguanas,CR/LFINF+DUC/HEX:2,337.3
+AREA # 22,Borough of Chaguanas,CR/LFINF+DUC/HEX:3,37.4
+AREA # 22,Borough of Chaguanas,CR/LFINF+DUC/HEX:4,18.7
+AREA # 22,Borough of Chaguanas,CR/LFINF+DUC/HEX:5,18.7
+AREA # 22,Borough of Chaguanas,CR/LFM+DNO/HEX:1,261.5
+AREA # 22,Borough of Chaguanas,CR/LFM+DNO/HEX:2,1173.5
+AREA # 22,Borough of Chaguanas,MCF/LWAL+DNO/HEX:1,555.8
+AREA # 22,Borough of Chaguanas,MCF/LWAL+DNO/HEX:2,1200.1
+AREA # 22,Borough of Chaguanas,MCF/LWAL+DNO/HEX:3,187.2
+AREA # 22,Borough of Chaguanas,MCF/LWAL+DUC/HEX:1,219.9
+AREA # 22,Borough of Chaguanas,MCF/LWAL+DUC/HEX:2,322.9
+AREA # 22,Borough of Chaguanas,MCF/LWAL+DUC/HEX:3,93.6
+AREA # 22,Borough of Chaguanas,MR/LWAL+DNO/HEX:1,1730.8
+AREA # 22,Borough of Chaguanas,MR/LWAL+DNO/HEX:2,1995.0
+AREA # 22,Borough of Chaguanas,MR/LWAL+DNO/HEX:3,474.0
+AREA # 22,Borough of Chaguanas,MR/LWAL+DUC/HEX:1,223.9
+AREA # 22,Borough of Chaguanas,MR/LWAL+DUC/HEX:2,330.1
+AREA # 22,Borough of Chaguanas,MR/LWAL+DUC/HEX:3,105.5
+AREA # 22,Borough of Chaguanas,MUR+ADO/LWAL+DNO/HEX:1,0.6
+AREA # 22,Borough of Chaguanas,MUR+ADO/LWAL+DNO/HEX:2,0.6
+AREA # 22,Borough of Chaguanas,MUR/LWAL+DNO/HEX:1,1898.0
+AREA # 22,Borough of Chaguanas,MUR/LWAL+DNO/HEX:2,2086.2
+AREA # 22,Borough of Chaguanas,UNK/HEX:1,18.0
+AREA # 22,Borough of Chaguanas,W+WLI/LDUAL+DNO/HEX:1,559.8
+AREA # 22,Borough of Chaguanas,W+WLI/LDUAL+DNO/HEX:2,671.2
+AREA # 22,Borough of Chaguanas,W+WLI/LFM+DNO/HEX:2/SOS,286.5
+AREA # 22,Borough of Chaguanas,W+WS/LPB+DNO/HEX:1,431.9
+AREA # 22,Borough of Chaguanas,W+WS/LPB+DNO/HEX:2,448.8
+AREA # 22,Borough of Chaguanas,W+WWD/LWAL+DNO/HEX:1,1.8
+AREA # 23,Borough of Point Fortin,CR/LFINF+DNO/HEX:2,65.3
+AREA # 23,Borough of Point Fortin,CR/LFINF+DNO/HEX:3,16.0
+AREA # 23,Borough of Point Fortin,CR/LFINF+DNO/HEX:4,9.6
+AREA # 23,Borough of Point Fortin,CR/LFINF+DNO/HEX:5,9.6
+AREA # 23,Borough of Point Fortin,CR/LFINF+DUC/HEX:2,83.7
+AREA # 23,Borough of Point Fortin,CR/LFINF+DUC/HEX:3,6.4
+AREA # 23,Borough of Point Fortin,CR/LFINF+DUC/HEX:4,3.2
+AREA # 23,Borough of Point Fortin,CR/LFINF+DUC/HEX:5,3.2
+AREA # 23,Borough of Point Fortin,CR/LFM+DNO/HEX:1,66.7
+AREA # 23,Borough of Point Fortin,CR/LFM+DNO/HEX:2,306.6
+AREA # 23,Borough of Point Fortin,MCF/LWAL+DNO/HEX:1,92.8
+AREA # 23,Borough of Point Fortin,MCF/LWAL+DNO/HEX:2,257.4
+AREA # 23,Borough of Point Fortin,MCF/LWAL+DNO/HEX:3,32.0
+AREA # 23,Borough of Point Fortin,MCF/LWAL+DUC/HEX:1,37.1
+AREA # 23,Borough of Point Fortin,MCF/LWAL+DUC/HEX:2,81.3
+AREA # 23,Borough of Point Fortin,MCF/LWAL+DUC/HEX:3,16.0
+AREA # 23,Borough of Point Fortin,MR/LWAL+DNO/HEX:1,337.1
+AREA # 23,Borough of Point Fortin,MR/LWAL+DNO/HEX:2,575.8
+AREA # 23,Borough of Point Fortin,MR/LWAL+DNO/HEX:3,85.0
+AREA # 23,Borough of Point Fortin,MR/LWAL+DUC/HEX:1,37.2
+AREA # 23,Borough of Point Fortin,MR/LWAL+DUC/HEX:2,93.1
+AREA # 23,Borough of Point Fortin,MR/LWAL+DUC/HEX:3,26.0
+AREA # 23,Borough of Point Fortin,MUR+ADO/LWAL+DNO/HEX:1,0.4
+AREA # 23,Borough of Point Fortin,MUR+ADO/LWAL+DNO/HEX:2,0.4
+AREA # 23,Borough of Point Fortin,MUR/LWAL+DNO/HEX:1,346.7
+AREA # 23,Borough of Point Fortin,MUR/LWAL+DNO/HEX:2,578.1
+AREA # 23,Borough of Point Fortin,UNK/HEX:1,13.0
+AREA # 23,Borough of Point Fortin,W+WLI/LDUAL+DNO/HEX:1,474.1
+AREA # 23,Borough of Point Fortin,W+WLI/LDUAL+DNO/HEX:2,626.9
+AREA # 23,Borough of Point Fortin,W+WLI/LFM+DNO/HEX:2/SOS,238.3
+AREA # 23,Borough of Point Fortin,W+WS/LPB+DNO/HEX:1,359.3
+AREA # 23,Borough of Point Fortin,W+WS/LPB+DNO/HEX:2,418.6
+AREA # 23,Borough of Point Fortin,W+WWD/LWAL+DNO/HEX:1,1.2
+AREA # 31,Diego Martin,CR/LFINF+DNO/HEX:2,366.8
+AREA # 31,Diego Martin,CR/LFINF+DNO/HEX:3,185.6
+AREA # 31,Diego Martin,CR/LFINF+DNO/HEX:4,111.4
+AREA # 31,Diego Martin,CR/LFINF+DNO/HEX:5,111.4
+AREA # 31,Diego Martin,CR/LFINF+DUC/HEX:2,524.3
+AREA # 31,Diego Martin,CR/LFINF+DUC/HEX:3,74.3
+AREA # 31,Diego Martin,CR/LFINF+DUC/HEX:4,37.1
+AREA # 31,Diego Martin,CR/LFINF+DUC/HEX:5,37.1
+AREA # 31,Diego Martin,CR/LFM+DNO/HEX:1,379.8
+AREA # 31,Diego Martin,CR/LFM+DNO/HEX:2,1781.0
+AREA # 31,Diego Martin,MCF/LWAL+DNO/HEX:1,792.1
+AREA # 31,Diego Martin,MCF/LWAL+DNO/HEX:2,1864.2
+AREA # 31,Diego Martin,MCF/LWAL+DNO/HEX:3,371.3
+AREA # 31,Diego Martin,MCF/LWAL+DUC/HEX:1,316.1
+AREA # 31,Diego Martin,MCF/LWAL+DUC/HEX:2,552.4
+AREA # 31,Diego Martin,MCF/LWAL+DUC/HEX:3,185.6
+AREA # 31,Diego Martin,MR/LWAL+DNO/HEX:1,2497.7
+AREA # 31,Diego Martin,MR/LWAL+DNO/HEX:2,3208.9
+AREA # 31,Diego Martin,MR/LWAL+DNO/HEX:3,936.0
+AREA # 31,Diego Martin,MR/LWAL+DUC/HEX:1,317.3
+AREA # 31,Diego Martin,MR/LWAL+DUC/HEX:2,565.0
+AREA # 31,Diego Martin,MR/LWAL+DUC/HEX:3,201.0
+AREA # 31,Diego Martin,MUR+ADO/LWAL+DNO/HEX:1,6.5
+AREA # 31,Diego Martin,MUR+ADO/LWAL+DNO/HEX:2,6.6
+AREA # 31,Diego Martin,MUR/LWAL+DNO/HEX:1,2803.0
+AREA # 31,Diego Martin,MUR/LWAL+DNO/HEX:2,3384.8
+AREA # 31,Diego Martin,UNK/HEX:1,54.0
+AREA # 31,Diego Martin,W+WLI/LDUAL+DNO/HEX:1,704.6
+AREA # 31,Diego Martin,W+WLI/LDUAL+DNO/HEX:2,790.4
+AREA # 31,Diego Martin,W+WLI/LFM+DNO/HEX:2/SOS,353.8
+AREA # 31,Diego Martin,W+WS/LPB+DNO/HEX:1,526.5
+AREA # 31,Diego Martin,W+WS/LPB+DNO/HEX:2,526.6
+AREA # 31,Diego Martin,W+WWD/LWAL+DNO/HEX:1,17.9
+AREA # 32,San Juan/Laventille,CR/LFINF+DNO/HEX:2,520.2
+AREA # 32,San Juan/Laventille,CR/LFINF+DNO/HEX:3,410.8
+AREA # 32,San Juan/Laventille,CR/LFINF+DNO/HEX:4,246.5
+AREA # 32,San Juan/Laventille,CR/LFINF+DNO/HEX:5,246.5
+AREA # 32,San Juan/Laventille,CR/LFINF+DUC/HEX:2,710.6
+AREA # 32,San Juan/Laventille,CR/LFINF+DUC/HEX:3,164.3
+AREA # 32,San Juan/Laventille,CR/LFINF+DUC/HEX:4,82.2
+AREA # 32,San Juan/Laventille,CR/LFINF+DUC/HEX:5,82.2
+AREA # 32,San Juan/Laventille,CR/LFM+DNO/HEX:1,491.4
+AREA # 32,San Juan/Laventille,CR/LFM+DNO/HEX:2,2402.9
+AREA # 32,San Juan/Laventille,MCF/LWAL+DNO/HEX:1,964.8
+AREA # 32,San Juan/Laventille,MCF/LWAL+DNO/HEX:2,2593.2
+AREA # 32,San Juan/Laventille,MCF/LWAL+DNO/HEX:3,821.7
+AREA # 32,San Juan/Laventille,MCF/LWAL+DUC/HEX:1,383.9
+AREA # 32,San Juan/Laventille,MCF/LWAL+DUC/HEX:2,931.1
+AREA # 32,San Juan/Laventille,MCF/LWAL+DUC/HEX:3,410.8
+AREA # 32,San Juan/Laventille,MR/LWAL+DNO/HEX:1,3092.8
+AREA # 32,San Juan/Laventille,MR/LWAL+DNO/HEX:2,4829.9
+AREA # 32,San Juan/Laventille,MR/LWAL+DNO/HEX:3,2080.3
+AREA # 32,San Juan/Laventille,MR/LWAL+DUC/HEX:1,387.2
+AREA # 32,San Juan/Laventille,MR/LWAL+DUC/HEX:2,967.7
+AREA # 32,San Juan/Laventille,MR/LWAL+DUC/HEX:3,463.0
+AREA # 32,San Juan/Laventille,MUR+ADO/LWAL+DNO/HEX:1,43.9
+AREA # 32,San Juan/Laventille,MUR+ADO/LWAL+DNO/HEX:2,52.6
+AREA # 32,San Juan/Laventille,MUR/LWAL+DNO/HEX:1,3669.0
+AREA # 32,San Juan/Laventille,MUR/LWAL+DNO/HEX:2,5219.6
+AREA # 32,San Juan/Laventille,UNK/HEX:1,119.0
+AREA # 32,San Juan/Laventille,W+WLI/LDUAL+DNO/HEX:1,1174.7
+AREA # 32,San Juan/Laventille,W+WLI/LDUAL+DNO/HEX:2,1466.1
+AREA # 32,San Juan/Laventille,W+WLI/LFM+DNO/HEX:2/SOS,628.7
+AREA # 32,San Juan/Laventille,W+WS/LPB+DNO/HEX:1,933.4
+AREA # 32,San Juan/Laventille,W+WS/LPB+DNO/HEX:2,955.3
+AREA # 32,San Juan/Laventille,W+WWD/LWAL+DNO/HEX:1,118.5
+AREA # 33,Tunapuna/Piarco,CR/LFINF+DNO/HEX:2,564.9
+AREA # 33,Tunapuna/Piarco,CR/LFINF+DNO/HEX:3,273.0
+AREA # 33,Tunapuna/Piarco,CR/LFINF+DNO/HEX:4,163.8
+AREA # 33,Tunapuna/Piarco,CR/LFINF+DNO/HEX:5,163.8
+AREA # 33,Tunapuna/Piarco,CR/LFINF+DUC/HEX:2,816.7
+AREA # 33,Tunapuna/Piarco,CR/LFINF+DUC/HEX:3,109.2
+AREA # 33,Tunapuna/Piarco,CR/LFINF+DUC/HEX:4,54.6
+AREA # 33,Tunapuna/Piarco,CR/LFINF+DUC/HEX:5,54.6
+AREA # 33,Tunapuna/Piarco,CR/LFM+DNO/HEX:1,616.9
+AREA # 33,Tunapuna/Piarco,CR/LFM+DNO/HEX:2,2820.8
+AREA # 33,Tunapuna/Piarco,MCF/LWAL+DNO/HEX:1,1765.7
+AREA # 33,Tunapuna/Piarco,MCF/LWAL+DNO/HEX:2,2913.9
+AREA # 33,Tunapuna/Piarco,MCF/LWAL+DNO/HEX:3,546.0
+AREA # 33,Tunapuna/Piarco,MCF/LWAL+DUC/HEX:1,630.3
+AREA # 33,Tunapuna/Piarco,MCF/LWAL+DUC/HEX:2,837.9
+AREA # 33,Tunapuna/Piarco,MCF/LWAL+DUC/HEX:3,273.0
+AREA # 33,Tunapuna/Piarco,MR/LWAL+DNO/HEX:1,4637.2
+AREA # 33,Tunapuna/Piarco,MR/LWAL+DNO/HEX:2,4972.0
+AREA # 33,Tunapuna/Piarco,MR/LWAL+DNO/HEX:3,1382.0
+AREA # 33,Tunapuna/Piarco,MR/LWAL+DUC/HEX:1,756.9
+AREA # 33,Tunapuna/Piarco,MR/LWAL+DUC/HEX:2,860.1
+AREA # 33,Tunapuna/Piarco,MR/LWAL+DUC/HEX:3,307.1
+AREA # 33,Tunapuna/Piarco,MUR+ADO/LWAL+DNO/HEX:1,84.1
+AREA # 33,Tunapuna/Piarco,MUR+ADO/LWAL+DNO/HEX:2,95.4
+AREA # 33,Tunapuna/Piarco,MUR/LWAL+DNO/HEX:1,5361.9
+AREA # 33,Tunapuna/Piarco,MUR/LWAL+DNO/HEX:2,5234.6
+AREA # 33,Tunapuna/Piarco,UNK/HEX:1,359.0
+AREA # 33,Tunapuna/Piarco,W+WLI/LDUAL+DNO/HEX:1,1469.0
+AREA # 33,Tunapuna/Piarco,W+WLI/LDUAL+DNO/HEX:2,1609.4
+AREA # 33,Tunapuna/Piarco,W+WLI/LFM+DNO/HEX:2/SOS,715.2
+AREA # 33,Tunapuna/Piarco,W+WS/LPB+DNO/HEX:1,1106.2
+AREA # 33,Tunapuna/Piarco,W+WS/LPB+DNO/HEX:2,1109.3
+AREA # 33,Tunapuna/Piarco,W+WWD/LWAL+DNO/HEX:1,224.5
+AREA # 34,Couva/Tabaquite/Talparo,CR/LFINF+DNO/HEX:2,318.7
+AREA # 34,Couva/Tabaquite/Talparo,CR/LFINF+DNO/HEX:3,117.2
+AREA # 34,Couva/Tabaquite/Talparo,CR/LFINF+DNO/HEX:4,70.3
+AREA # 34,Couva/Tabaquite/Talparo,CR/LFINF+DNO/HEX:5,70.3
+AREA # 34,Couva/Tabaquite/Talparo,CR/LFINF+DUC/HEX:2,470.0
+AREA # 34,Couva/Tabaquite/Talparo,CR/LFINF+DUC/HEX:3,46.9
+AREA # 34,Couva/Tabaquite/Talparo,CR/LFINF+DUC/HEX:4,23.4
+AREA # 34,Couva/Tabaquite/Talparo,CR/LFINF+DUC/HEX:5,23.4
+AREA # 34,Couva/Tabaquite/Talparo,CR/LFM+DNO/HEX:1,453.4
+AREA # 34,Couva/Tabaquite/Talparo,CR/LFM+DNO/HEX:2,1763.4
+AREA # 34,Couva/Tabaquite/Talparo,MCF/LWAL+DNO/HEX:1,759.7
+AREA # 34,Couva/Tabaquite/Talparo,MCF/LWAL+DNO/HEX:2,1662.2
+AREA # 34,Couva/Tabaquite/Talparo,MCF/LWAL+DNO/HEX:3,234.4
+AREA # 34,Couva/Tabaquite/Talparo,MCF/LWAL+DUC/HEX:1,303.3
+AREA # 34,Couva/Tabaquite/Talparo,MCF/LWAL+DUC/HEX:2,435.9
+AREA # 34,Couva/Tabaquite/Talparo,MCF/LWAL+DUC/HEX:3,117.2
+AREA # 34,Couva/Tabaquite/Talparo,MR/LWAL+DNO/HEX:1,2574.7
+AREA # 34,Couva/Tabaquite/Talparo,MR/LWAL+DNO/HEX:2,2952.6
+AREA # 34,Couva/Tabaquite/Talparo,MR/LWAL+DNO/HEX:3,605.8
+AREA # 34,Couva/Tabaquite/Talparo,MR/LWAL+DUC/HEX:1,304.2
+AREA # 34,Couva/Tabaquite/Talparo,MR/LWAL+DUC/HEX:2,458.4
+AREA # 34,Couva/Tabaquite/Talparo,MR/LWAL+DUC/HEX:3,156.9
+AREA # 34,Couva/Tabaquite/Talparo,MUR+ADO/LWAL+DNO/HEX:1,5.4
+AREA # 34,Couva/Tabaquite/Talparo,MUR+ADO/LWAL+DNO/HEX:2,6.6
+AREA # 34,Couva/Tabaquite/Talparo,MUR/LWAL+DNO/HEX:1,2982.9
+AREA # 34,Couva/Tabaquite/Talparo,MUR/LWAL+DNO/HEX:2,3064.6
+AREA # 34,Couva/Tabaquite/Talparo,UNK/HEX:1,149.0
+AREA # 34,Couva/Tabaquite/Talparo,W+WLI/LDUAL+DNO/HEX:1,2033.8
+AREA # 34,Couva/Tabaquite/Talparo,W+WLI/LDUAL+DNO/HEX:2,2251.0
+AREA # 34,Couva/Tabaquite/Talparo,W+WLI/LFM+DNO/HEX:2/SOS,997.7
+AREA # 34,Couva/Tabaquite/Talparo,W+WS/LPB+DNO/HEX:1,1606.2
+AREA # 34,Couva/Tabaquite/Talparo,W+WS/LPB+DNO/HEX:2,1557.4
+AREA # 34,Couva/Tabaquite/Talparo,W+WWD/LWAL+DNO/HEX:1,15.0
+AREA # 35,Mayaro/Rio Claro,CR/LFINF+DNO/HEX:2,3.8
+AREA # 35,Mayaro/Rio Claro,CR/LFINF+DNO/HEX:3,0.4
+AREA # 35,Mayaro/Rio Claro,CR/LFINF+DNO/HEX:4,0.2
+AREA # 35,Mayaro/Rio Claro,CR/LFINF+DNO/HEX:5,0.2
+AREA # 35,Mayaro/Rio Claro,CR/LFINF+DUC/HEX:2,5.7
+AREA # 35,Mayaro/Rio Claro,CR/LFINF+DUC/HEX:3,0.2
+AREA # 35,Mayaro/Rio Claro,CR/LFINF+DUC/HEX:4,0.1
+AREA # 35,Mayaro/Rio Claro,CR/LFINF+DUC/HEX:5,0.1
+AREA # 35,Mayaro/Rio Claro,CR/LFM+DNO/HEX:1,6.7
+AREA # 35,Mayaro/Rio Claro,CR/LFM+DNO/HEX:2,25.0
+AREA # 35,Mayaro/Rio Claro,MCF/LWAL+DNO/HEX:1,9.4
+AREA # 35,Mayaro/Rio Claro,MCF/LWAL+DNO/HEX:2,19.2
+AREA # 35,Mayaro/Rio Claro,MCF/LWAL+DNO/HEX:3,0.8
+AREA # 35,Mayaro/Rio Claro,MCF/LWAL+DUC/HEX:1,3.7
+AREA # 35,Mayaro/Rio Claro,MCF/LWAL+DUC/HEX:2,4.2
+AREA # 35,Mayaro/Rio Claro,MCF/LWAL+DUC/HEX:3,0.4
+AREA # 35,Mayaro/Rio Claro,MR/LWAL+DNO/HEX:1,34.0
+AREA # 35,Mayaro/Rio Claro,MR/LWAL+DNO/HEX:2,37.7
+AREA # 35,Mayaro/Rio Claro,MR/LWAL+DNO/HEX:3,3.0
+AREA # 35,Mayaro/Rio Claro,MR/LWAL+DUC/HEX:1,3.8
+AREA # 35,Mayaro/Rio Claro,MR/LWAL+DUC/HEX:2,5.3
+AREA # 35,Mayaro/Rio Claro,MR/LWAL+DUC/HEX:3,2.3
+AREA # 35,Mayaro/Rio Claro,MUR/LWAL+DNO/HEX:1,34.2
+AREA # 35,Mayaro/Rio Claro,MUR/LWAL+DNO/HEX:2,37.9
+AREA # 35,Mayaro/Rio Claro,UNK/HEX:1,1.0
+AREA # 35,Mayaro/Rio Claro,W+WLI/LDUAL+DNO/HEX:1,19.5
+AREA # 35,Mayaro/Rio Claro,W+WLI/LDUAL+DNO/HEX:2,24.5
+AREA # 35,Mayaro/Rio Claro,W+WLI/LFM+DNO/HEX:2/SOS,12.2
+AREA # 35,Mayaro/Rio Claro,W+WS/LPB+DNO/HEX:1,11.5
+AREA # 35,Mayaro/Rio Claro,W+WS/LPB+DNO/HEX:2,14.8
+AREA # 36,Sangre Grande,CR/LFINF+DNO/HEX:2,7.6
+AREA # 36,Sangre Grande,CR/LFINF+DNO/HEX:3,1.3
+AREA # 36,Sangre Grande,CR/LFINF+DNO/HEX:4,0.8
+AREA # 36,Sangre Grande,CR/LFINF+DNO/HEX:5,0.8
+AREA # 36,Sangre Grande,CR/LFINF+DUC/HEX:2,11.2
+AREA # 36,Sangre Grande,CR/LFINF+DUC/HEX:3,0.5
+AREA # 36,Sangre Grande,CR/LFINF+DUC/HEX:4,0.3
+AREA # 36,Sangre Grande,CR/LFINF+DUC/HEX:5,0.3
+AREA # 36,Sangre Grande,CR/LFM+DNO/HEX:1,9.2
+AREA # 36,Sangre Grande,CR/LFM+DNO/HEX:2,43.1
+AREA # 36,Sangre Grande,MCF/LWAL+DNO/HEX:1,18.0
+AREA # 36,Sangre Grande,MCF/LWAL+DNO/HEX:2,37.9
+AREA # 36,Sangre Grande,MCF/LWAL+DNO/HEX:3,2.6
+AREA # 36,Sangre Grande,MCF/LWAL+DUC/HEX:1,7.2
+AREA # 36,Sangre Grande,MCF/LWAL+DUC/HEX:2,9.0
+AREA # 36,Sangre Grande,MCF/LWAL+DUC/HEX:3,1.3
+AREA # 36,Sangre Grande,MR/LWAL+DNO/HEX:1,57.8
+AREA # 36,Sangre Grande,MR/LWAL+DNO/HEX:2,66.4
+AREA # 36,Sangre Grande,MR/LWAL+DNO/HEX:3,7.9
+AREA # 36,Sangre Grande,MR/LWAL+DUC/HEX:1,7.2
+AREA # 36,Sangre Grande,MR/LWAL+DUC/HEX:2,10.4
+AREA # 36,Sangre Grande,MR/LWAL+DUC/HEX:3,4.1
+AREA # 36,Sangre Grande,MUR+ADO/LWAL+DNO/HEX:1,1.1
+AREA # 36,Sangre Grande,MUR+ADO/LWAL+DNO/HEX:2,0.6
+AREA # 36,Sangre Grande,MUR/LWAL+DNO/HEX:1,65.2
+AREA # 36,Sangre Grande,MUR/LWAL+DNO/HEX:2,67.6
+AREA # 36,Sangre Grande,UNK/HEX:1,1.0
+AREA # 36,Sangre Grande,W+WLI/LDUAL+DNO/HEX:1,22.2
+AREA # 36,Sangre Grande,W+WLI/LDUAL+DNO/HEX:2,27.2
+AREA # 36,Sangre Grande,W+WLI/LFM+DNO/HEX:2/SOS,13.2
+AREA # 36,Sangre Grande,W+WS/LPB+DNO/HEX:1,17.9
+AREA # 36,Sangre Grande,W+WS/LPB+DNO/HEX:2,18.7
+AREA # 36,Sangre Grande,W+WWD/LWAL+DNO/HEX:1,2.3
+AREA # 37,Princes Town,CR/LFINF+DNO/HEX:2,132.1
+AREA # 37,Princes Town,CR/LFINF+DNO/HEX:3,40.4
+AREA # 37,Princes Town,CR/LFINF+DNO/HEX:4,24.3
+AREA # 37,Princes Town,CR/LFINF+DNO/HEX:5,24.3
+AREA # 37,Princes Town,CR/LFINF+DUC/HEX:2,191.5
+AREA # 37,Princes Town,CR/LFINF+DUC/HEX:3,16.2
+AREA # 37,Princes Town,CR/LFINF+DUC/HEX:4,8.1
+AREA # 37,Princes Town,CR/LFINF+DUC/HEX:5,8.1
+AREA # 37,Princes Town,CR/LFM+DNO/HEX:1,264.0
+AREA # 37,Princes Town,CR/LFM+DNO/HEX:2,847.6
+AREA # 37,Princes Town,MCF/LWAL+DNO/HEX:1,297.9
+AREA # 37,Princes Town,MCF/LWAL+DNO/HEX:2,661.4
+AREA # 37,Princes Town,MCF/LWAL+DNO/HEX:3,80.9
+AREA # 37,Princes Town,MCF/LWAL+DUC/HEX:1,119.1
+AREA # 37,Princes Town,MCF/LWAL+DUC/HEX:2,172.5
+AREA # 37,Princes Town,MCF/LWAL+DUC/HEX:3,40.4
+AREA # 37,Princes Town,MR/LWAL+DNO/HEX:1,1182.8
+AREA # 37,Princes Town,MR/LWAL+DNO/HEX:2,1404.3
+AREA # 37,Princes Town,MR/LWAL+DNO/HEX:3,225.4
+AREA # 37,Princes Town,MR/LWAL+DUC/HEX:1,119.2
+AREA # 37,Princes Town,MR/LWAL+DUC/HEX:2,199.7
+AREA # 37,Princes Town,MR/LWAL+DUC/HEX:3,86.8
+AREA # 37,Princes Town,MUR+ADO/LWAL+DNO/HEX:1,0.2
+AREA # 37,Princes Town,MUR+ADO/LWAL+DNO/HEX:2,0.2
+AREA # 37,Princes Town,MUR/LWAL+DNO/HEX:1,1272.4
+AREA # 37,Princes Town,MUR/LWAL+DNO/HEX:2,1436.7
+AREA # 37,Princes Town,UNK/HEX:1,26.0
+AREA # 37,Princes Town,W+WLI/LDUAL+DNO/HEX:1,1659.6
+AREA # 37,Princes Town,W+WLI/LDUAL+DNO/HEX:2,1865.5
+AREA # 37,Princes Town,W+WLI/LFM+DNO/HEX:2/SOS,842.4
+AREA # 37,Princes Town,W+WS/LPB+DNO/HEX:1,1230.1
+AREA # 37,Princes Town,W+WS/LPB+DNO/HEX:2,1256.4
+AREA # 37,Princes Town,W+WWD/LWAL+DNO/HEX:1,0.6
+AREA # 38,Penal/Debe,CR/LFINF+DNO/HEX:2,122.8
+AREA # 38,Penal/Debe,CR/LFINF+DNO/HEX:3,43.6
+AREA # 38,Penal/Debe,CR/LFINF+DNO/HEX:4,26.1
+AREA # 38,Penal/Debe,CR/LFINF+DNO/HEX:5,26.1
+AREA # 38,Penal/Debe,CR/LFINF+DUC/HEX:2,178.0
+AREA # 38,Penal/Debe,CR/LFINF+DUC/HEX:3,17.4
+AREA # 38,Penal/Debe,CR/LFINF+DUC/HEX:4,8.7
+AREA # 38,Penal/Debe,CR/LFINF+DUC/HEX:5,8.7
+AREA # 38,Penal/Debe,CR/LFM+DNO/HEX:1,212.9
+AREA # 38,Penal/Debe,CR/LFM+DNO/HEX:2,749.0
+AREA # 38,Penal/Debe,MCF/LWAL+DNO/HEX:1,276.5
+AREA # 38,Penal/Debe,MCF/LWAL+DNO/HEX:2,620.4
+AREA # 38,Penal/Debe,MCF/LWAL+DNO/HEX:3,87.1
+AREA # 38,Penal/Debe,MCF/LWAL+DUC/HEX:1,110.5
+AREA # 38,Penal/Debe,MCF/LWAL+DUC/HEX:2,166.4
+AREA # 38,Penal/Debe,MCF/LWAL+DUC/HEX:3,43.6
+AREA # 38,Penal/Debe,MR/LWAL+DNO/HEX:1,1033.6
+AREA # 38,Penal/Debe,MR/LWAL+DNO/HEX:2,1249.8
+AREA # 38,Penal/Debe,MR/LWAL+DNO/HEX:3,236.5
+AREA # 38,Penal/Debe,MR/LWAL+DUC/HEX:1,110.6
+AREA # 38,Penal/Debe,MR/LWAL+DUC/HEX:2,189.6
+AREA # 38,Penal/Debe,MR/LWAL+DUC/HEX:3,81.1
+AREA # 38,Penal/Debe,MUR+ADO/LWAL+DNO/HEX:1,0.4
+AREA # 38,Penal/Debe,MUR+ADO/LWAL+DNO/HEX:2,1.0
+AREA # 38,Penal/Debe,MUR/LWAL+DNO/HEX:1,1080.4
+AREA # 38,Penal/Debe,MUR/LWAL+DNO/HEX:2,1284.5
+AREA # 38,Penal/Debe,UNK/HEX:1,12.0
+AREA # 38,Penal/Debe,W+WLI/LDUAL+DNO/HEX:1,992.6
+AREA # 38,Penal/Debe,W+WLI/LDUAL+DNO/HEX:2,1207.8
+AREA # 38,Penal/Debe,W+WLI/LFM+DNO/HEX:2/SOS,536.5
+AREA # 38,Penal/Debe,W+WS/LPB+DNO/HEX:1,710.2
+AREA # 38,Penal/Debe,W+WS/LPB+DNO/HEX:2,781.0
+AREA # 38,Penal/Debe,W+WWD/LWAL+DNO/HEX:1,0.6
+AREA # 39,Siparia,CR/LFINF+DNO/HEX:2,9.2
+AREA # 39,Siparia,CR/LFINF+DNO/HEX:3,1.5
+AREA # 39,Siparia,CR/LFINF+DNO/HEX:4,0.9
+AREA # 39,Siparia,CR/LFINF+DNO/HEX:5,0.9
+AREA # 39,Siparia,CR/LFINF+DUC/HEX:2,13.2
+AREA # 39,Siparia,CR/LFINF+DUC/HEX:3,0.6
+AREA # 39,Siparia,CR/LFINF+DUC/HEX:4,0.3
+AREA # 39,Siparia,CR/LFINF+DUC/HEX:5,0.3
+AREA # 39,Siparia,CR/LFM+DNO/HEX:1,13.9
+AREA # 39,Siparia,CR/LFM+DNO/HEX:2,56.3
+AREA # 39,Siparia,MCF/LWAL+DNO/HEX:1,20.1
+AREA # 39,Siparia,MCF/LWAL+DNO/HEX:2,43.9
+AREA # 39,Siparia,MCF/LWAL+DNO/HEX:3,3.0
+AREA # 39,Siparia,MCF/LWAL+DUC/HEX:1,8.0
+AREA # 39,Siparia,MCF/LWAL+DUC/HEX:2,10.7
+AREA # 39,Siparia,MCF/LWAL+DUC/HEX:3,1.5
+AREA # 39,Siparia,MR/LWAL+DNO/HEX:1,71.9
+AREA # 39,Siparia,MR/LWAL+DNO/HEX:2,87.5
+AREA # 39,Siparia,MR/LWAL+DNO/HEX:3,10.0
+AREA # 39,Siparia,MR/LWAL+DUC/HEX:1,8.0
+AREA # 39,Siparia,MR/LWAL+DUC/HEX:2,13.3
+AREA # 39,Siparia,MR/LWAL+DUC/HEX:3,6.4
+AREA # 39,Siparia,MUR+ADO/LWAL+DNO/HEX:1,0.4
+AREA # 39,Siparia,MUR+ADO/LWAL+DNO/HEX:2,0.4
+AREA # 39,Siparia,MUR/LWAL+DNO/HEX:1,71.9
+AREA # 39,Siparia,MUR/LWAL+DNO/HEX:2,88.6
+AREA # 39,Siparia,UNK/HEX:1,1.0
+AREA # 39,Siparia,W+WLI/LDUAL+DNO/HEX:1,37.9
+AREA # 39,Siparia,W+WLI/LDUAL+DNO/HEX:2,51.4
+AREA # 39,Siparia,W+WLI/LFM+DNO/HEX:2/SOS,25.2
+AREA # 39,Siparia,W+WS/LPB+DNO/HEX:1,25.3
+AREA # 39,Siparia,W+WS/LPB+DNO/HEX:2,31.3
+AREA # 39,Siparia,W+WWD/LWAL+DNO/HEX:1,1.2
+AREA # 91,Parish of St. George,CR/LFINF+DNO/HEX:2,0.2
+AREA # 91,Parish of St. George,CR/LFINF+DNO/HEX:3,0.2
+AREA # 91,Parish of St. George,CR/LFINF+DNO/HEX:4,0.1
+AREA # 91,Parish of St. George,CR/LFINF+DNO/HEX:5,0.1
+AREA # 91,Parish of St. George,CR/LFINF+DUC/HEX:2,0.4
+AREA # 91,Parish of St. George,CR/LFINF+DUC/HEX:3,0.1
+AREA # 91,Parish of St. George,CR/LFINF+DUC/HEX:4,0.0
+AREA # 91,Parish of St. George,CR/LFINF+DUC/HEX:5,0.0
+AREA # 91,Parish of St. George,CR/LFM+DNO/HEX:1,0.5
+AREA # 91,Parish of St. George,CR/LFM+DNO/HEX:2,1.5
+AREA # 91,Parish of St. George,MCF/LWAL+DNO/HEX:1,0.6
+AREA # 91,Parish of St. George,MCF/LWAL+DNO/HEX:2,1.4
+AREA # 91,Parish of St. George,MCF/LWAL+DNO/HEX:3,0.3
+AREA # 91,Parish of St. George,MCF/LWAL+DUC/HEX:1,0.2
+AREA # 91,Parish of St. George,MCF/LWAL+DUC/HEX:2,0.4
+AREA # 91,Parish of St. George,MCF/LWAL+DUC/HEX:3,0.2
+AREA # 91,Parish of St. George,MR/LWAL+DNO/HEX:1,2.4
+AREA # 91,Parish of St. George,MR/LWAL+DNO/HEX:2,2.7
+AREA # 91,Parish of St. George,MR/LWAL+DNO/HEX:3,0.8
+AREA # 91,Parish of St. George,MR/LWAL+DUC/HEX:1,0.2
+AREA # 91,Parish of St. George,MR/LWAL+DUC/HEX:2,0.4
+AREA # 91,Parish of St. George,MR/LWAL+DUC/HEX:3,0.2
+AREA # 91,Parish of St. George,MUR/LWAL+DNO/HEX:1,2.4
+AREA # 91,Parish of St. George,MUR/LWAL+DNO/HEX:2,2.8
+AREA # 91,Parish of St. George,W+WLI/LDUAL+DNO/HEX:1,1.9
+AREA # 91,Parish of St. George,W+WLI/LDUAL+DNO/HEX:2,1.8
+AREA # 91,Parish of St. George,W+WLI/LFM+DNO/HEX:2/SOS,1.0
+AREA # 91,Parish of St. George,W+WS/LPB+DNO/HEX:1,1.2
+AREA # 91,Parish of St. George,W+WS/LPB+DNO/HEX:2,1.1
+AREA # 92,Parish of St. Mary,CR/LFINF+DNO/HEX:2,0.2
+AREA # 92,Parish of St. Mary,CR/LFINF+DUC/HEX:2,0.2
+AREA # 92,Parish of St. Mary,CR/LFM+DNO/HEX:1,0.4
+AREA # 92,Parish of St. Mary,CR/LFM+DNO/HEX:2,1.0
+AREA # 92,Parish of St. Mary,MCF/LWAL+DNO/HEX:1,0.4
+AREA # 92,Parish of St. Mary,MCF/LWAL+DNO/HEX:2,0.8
+AREA # 92,Parish of St. Mary,MCF/LWAL+DUC/HEX:1,0.2
+AREA # 92,Parish of St. Mary,MCF/LWAL+DUC/HEX:2,0.2
+AREA # 92,Parish of St. Mary,MR/LWAL+DNO/HEX:1,1.7
+AREA # 92,Parish of St. Mary,MR/LWAL+DNO/HEX:2,1.7
+AREA # 92,Parish of St. Mary,MR/LWAL+DUC/HEX:1,0.2
+AREA # 92,Parish of St. Mary,MR/LWAL+DUC/HEX:2,0.2
+AREA # 92,Parish of St. Mary,MUR/LWAL+DNO/HEX:1,1.7
+AREA # 92,Parish of St. Mary,MUR/LWAL+DNO/HEX:2,1.7
+AREA # 92,Parish of St. Mary,W+WLI/LDUAL+DNO/HEX:1,0.8
+AREA # 92,Parish of St. Mary,W+WLI/LDUAL+DNO/HEX:2,0.8
+AREA # 92,Parish of St. Mary,W+WLI/LFM+DNO/HEX:2/SOS,0.5
+AREA # 92,Parish of St. Mary,W+WS/LPB+DNO/HEX:1,0.2
+AREA # 92,Parish of St. Mary,W+WS/LPB+DNO/HEX:2,0.2
+AREA # 93,Parish of St. Andrew,CR/LFINF+DNO/HEX:2,1.2
+AREA # 93,Parish of St. Andrew,CR/LFINF+DNO/HEX:3,1.5
+AREA # 93,Parish of St. Andrew,CR/LFINF+DNO/HEX:4,0.9
+AREA # 93,Parish of St. Andrew,CR/LFINF+DNO/HEX:5,0.9
+AREA # 93,Parish of St. Andrew,CR/LFINF+DUC/HEX:2,1.7
+AREA # 93,Parish of St. Andrew,CR/LFINF+DUC/HEX:3,0.6
+AREA # 93,Parish of St. Andrew,CR/LFINF+DUC/HEX:4,0.3
+AREA # 93,Parish of St. Andrew,CR/LFINF+DUC/HEX:5,0.3
+AREA # 93,Parish of St. Andrew,CR/LFM+DNO/HEX:1,1.7
+AREA # 93,Parish of St. Andrew,CR/LFM+DNO/HEX:2,6.6
+AREA # 93,Parish of St. Andrew,MCF/LWAL+DNO/HEX:1,2.6
+AREA # 93,Parish of St. Andrew,MCF/LWAL+DNO/HEX:2,7.0
+AREA # 93,Parish of St. Andrew,MCF/LWAL+DNO/HEX:3,2.9
+AREA # 93,Parish of St. Andrew,MCF/LWAL+DUC/HEX:1,1.0
+AREA # 93,Parish of St. Andrew,MCF/LWAL+DUC/HEX:2,2.7
+AREA # 93,Parish of St. Andrew,MCF/LWAL+DUC/HEX:3,1.5
+AREA # 93,Parish of St. Andrew,MR/LWAL+DNO/HEX:1,9.0
+AREA # 93,Parish of St. Andrew,MR/LWAL+DNO/HEX:2,13.4
+AREA # 93,Parish of St. Andrew,MR/LWAL+DNO/HEX:3,7.4
+AREA # 93,Parish of St. Andrew,MR/LWAL+DUC/HEX:1,1.0
+AREA # 93,Parish of St. Andrew,MR/LWAL+DUC/HEX:2,2.8
+AREA # 93,Parish of St. Andrew,MR/LWAL+DUC/HEX:3,1.8
+AREA # 93,Parish of St. Andrew,MUR/LWAL+DNO/HEX:1,10.0
+AREA # 93,Parish of St. Andrew,MUR/LWAL+DNO/HEX:2,14.8
+AREA # 93,Parish of St. Andrew,W+WLI/LDUAL+DNO/HEX:1,3.4
+AREA # 93,Parish of St. Andrew,W+WLI/LDUAL+DNO/HEX:2,5.3
+AREA # 93,Parish of St. Andrew,W+WLI/LFM+DNO/HEX:2/SOS,2.4
+AREA # 93,Parish of St. Andrew,W+WS/LPB+DNO/HEX:1,3.8
+AREA # 93,Parish of St. Andrew,W+WS/LPB+DNO/HEX:2,2.9
+AREA # 94,Parish of St. Patrick,CR/LFINF+DNO/HEX:2,0.9
+AREA # 94,Parish of St. Patrick,CR/LFINF+DNO/HEX:3,2.1
+AREA # 94,Parish of St. Patrick,CR/LFINF+DNO/HEX:4,1.2
+AREA # 94,Parish of St. Patrick,CR/LFINF+DNO/HEX:5,1.2
+AREA # 94,Parish of St. Patrick,CR/LFINF+DUC/HEX:2,1.3
+AREA # 94,Parish of St. Patrick,CR/LFINF+DUC/HEX:3,0.8
+AREA # 94,Parish of St. Patrick,CR/LFINF+DUC/HEX:4,0.4
+AREA # 94,Parish of St. Patrick,CR/LFINF+DUC/HEX:5,0.4
+AREA # 94,Parish of St. Patrick,CR/LFM+DNO/HEX:1,1.1
+AREA # 94,Parish of St. Patrick,CR/LFM+DNO/HEX:2,6.2
+AREA # 94,Parish of St. Patrick,MCF/LWAL+DNO/HEX:1,1.7
+AREA # 94,Parish of St. Patrick,MCF/LWAL+DNO/HEX:2,6.0
+AREA # 94,Parish of St. Patrick,MCF/LWAL+DNO/HEX:3,4.1
+AREA # 94,Parish of St. Patrick,MCF/LWAL+DUC/HEX:1,0.7
+AREA # 94,Parish of St. Patrick,MCF/LWAL+DUC/HEX:2,3.0
+AREA # 94,Parish of St. Patrick,MCF/LWAL+DUC/HEX:3,2.1
+AREA # 94,Parish of St. Patrick,MR/LWAL+DNO/HEX:1,6.0
+AREA # 94,Parish of St. Patrick,MR/LWAL+DNO/HEX:2,12.8
+AREA # 94,Parish of St. Patrick,MR/LWAL+DNO/HEX:3,10.8
+AREA # 94,Parish of St. Patrick,MR/LWAL+DUC/HEX:1,0.7
+AREA # 94,Parish of St. Patrick,MR/LWAL+DUC/HEX:2,3.6
+AREA # 94,Parish of St. Patrick,MR/LWAL+DUC/HEX:3,3.3
+AREA # 94,Parish of St. Patrick,MUR/LWAL+DNO/HEX:1,8.0
+AREA # 94,Parish of St. Patrick,MUR/LWAL+DNO/HEX:2,14.8
+AREA # 94,Parish of St. Patrick,W+WLI/LDUAL+DNO/HEX:1,2.1
+AREA # 94,Parish of St. Patrick,W+WLI/LDUAL+DNO/HEX:2,4.5
+AREA # 94,Parish of St. Patrick,W+WLI/LFM+DNO/HEX:2/SOS,2.4
+AREA # 94,Parish of St. Patrick,W+WS/LPB+DNO/HEX:1,1.1
+AREA # 94,Parish of St. Patrick,W+WS/LPB+DNO/HEX:2,2.8
+AREA # 95,Parish of St. David,CR/LFINF+DNO/HEX:2,0.3
+AREA # 95,Parish of St. David,CR/LFINF+DNO/HEX:3,0.4
+AREA # 95,Parish of St. David,CR/LFINF+DNO/HEX:4,0.2
+AREA # 95,Parish of St. David,CR/LFINF+DNO/HEX:5,0.2
+AREA # 95,Parish of St. David,CR/LFINF+DUC/HEX:2,0.4
+AREA # 95,Parish of St. David,CR/LFINF+DUC/HEX:3,0.1
+AREA # 95,Parish of St. David,CR/LFINF+DUC/HEX:4,0.1
+AREA # 95,Parish of St. David,CR/LFINF+DUC/HEX:5,0.1
+AREA # 95,Parish of St. David,CR/LFM+DNO/HEX:1,0.3
+AREA # 95,Parish of St. David,CR/LFM+DNO/HEX:2,1.6
+AREA # 95,Parish of St. David,MCF/LWAL+DNO/HEX:1,0.6
+AREA # 95,Parish of St. David,MCF/LWAL+DNO/HEX:2,1.6
+AREA # 95,Parish of St. David,MCF/LWAL+DNO/HEX:3,0.7
+AREA # 95,Parish of St. David,MCF/LWAL+DUC/HEX:1,0.2
+AREA # 95,Parish of St. David,MCF/LWAL+DUC/HEX:2,0.7
+AREA # 95,Parish of St. David,MCF/LWAL+DUC/HEX:3,0.4
+AREA # 95,Parish of St. David,MR/LWAL+DNO/HEX:1,1.9
+AREA # 95,Parish of St. David,MR/LWAL+DNO/HEX:2,3.6
+AREA # 95,Parish of St. David,MR/LWAL+DNO/HEX:3,1.8
+AREA # 95,Parish of St. David,MR/LWAL+DUC/HEX:1,0.3
+AREA # 95,Parish of St. David,MR/LWAL+DUC/HEX:2,0.8
+AREA # 95,Parish of St. David,MR/LWAL+DUC/HEX:3,0.5
+AREA # 95,Parish of St. David,MUR/LWAL+DNO/HEX:1,2.0
+AREA # 95,Parish of St. David,MUR/LWAL+DNO/HEX:2,3.8
+AREA # 95,Parish of St. David,W+WLI/LDUAL+DNO/HEX:1,1.2
+AREA # 95,Parish of St. David,W+WLI/LDUAL+DNO/HEX:2,2.4
+AREA # 95,Parish of St. David,W+WLI/LFM+DNO/HEX:2/SOS,0.7
+AREA # 95,Parish of St. David,W+WS/LPB+DNO/HEX:1,0.8
+AREA # 95,Parish of St. David,W+WS/LPB+DNO/HEX:2,1.2
+AREA # 96,Parish of St. Paul,CR/LFINF+DNO/HEX:2,0.5
+AREA # 96,Parish of St. Paul,CR/LFINF+DUC/HEX:2,0.6
+AREA # 96,Parish of St. Paul,CR/LFM+DNO/HEX:1,0.4
+AREA # 96,Parish of St. Paul,CR/LFM+DNO/HEX:2,2.0
+AREA # 96,Parish of St. Paul,MCF/LWAL+DNO/HEX:1,0.5
+AREA # 96,Parish of St. Paul,MCF/LWAL+DNO/HEX:2,1.5
+AREA # 96,Parish of St. Paul,MCF/LWAL+DUC/HEX:1,0.2
+AREA # 96,Parish of St. Paul,MCF/LWAL+DUC/HEX:2,0.5
+AREA # 96,Parish of St. Paul,MR/LWAL+DNO/HEX:1,1.8
+AREA # 96,Parish of St. Paul,MR/LWAL+DNO/HEX:2,3.7
+AREA # 96,Parish of St. Paul,MR/LWAL+DNO/HEX:3,0.1
+AREA # 96,Parish of St. Paul,MR/LWAL+DUC/HEX:1,0.2
+AREA # 96,Parish of St. Paul,MR/LWAL+DUC/HEX:2,0.6
+AREA # 96,Parish of St. Paul,MR/LWAL+DUC/HEX:3,0.2
+AREA # 96,Parish of St. Paul,MUR/LWAL+DNO/HEX:1,1.8
+AREA # 96,Parish of St. Paul,MUR/LWAL+DNO/HEX:2,3.7
+AREA # 96,Parish of St. Paul,W+WLI/LDUAL+DNO/HEX:1,0.8
+AREA # 96,Parish of St. Paul,W+WLI/LDUAL+DNO/HEX:2,1.2
+AREA # 96,Parish of St. Paul,W+WLI/LFM+DNO/HEX:2/SOS,0.7
+AREA # 96,Parish of St. Paul,W+WS/LPB+DNO/HEX:1,0.4
+AREA # 96,Parish of St. Paul,W+WS/LPB+DNO/HEX:2,0.7
+AREA # 97,Parish of St. John,CR/LFINF+DNO/HEX:2,0.3
+AREA # 97,Parish of St. John,CR/LFINF+DNO/HEX:3,0.1
+AREA # 97,Parish of St. John,CR/LFINF+DNO/HEX:4,0.1
+AREA # 97,Parish of St. John,CR/LFINF+DNO/HEX:5,0.1
+AREA # 97,Parish of St. John,CR/LFINF+DUC/HEX:2,0.4
+AREA # 97,Parish of St. John,CR/LFINF+DUC/HEX:3,0.0
+AREA # 97,Parish of St. John,CR/LFINF+DUC/HEX:4,0.0
+AREA # 97,Parish of St. John,CR/LFINF+DUC/HEX:5,0.0
+AREA # 97,Parish of St. John,CR/LFM+DNO/HEX:1,0.5
+AREA # 97,Parish of St. John,CR/LFM+DNO/HEX:2,1.8
+AREA # 97,Parish of St. John,MCF/LWAL+DNO/HEX:1,0.6
+AREA # 97,Parish of St. John,MCF/LWAL+DNO/HEX:2,1.4
+AREA # 97,Parish of St. John,MCF/LWAL+DNO/HEX:3,0.2
+AREA # 97,Parish of St. John,MCF/LWAL+DUC/HEX:1,0.3
+AREA # 97,Parish of St. John,MCF/LWAL+DUC/HEX:2,0.4
+AREA # 97,Parish of St. John,MCF/LWAL+DUC/HEX:3,0.1
+AREA # 97,Parish of St. John,MR/LWAL+DNO/HEX:1,2.3
+AREA # 97,Parish of St. John,MR/LWAL+DNO/HEX:2,2.8
+AREA # 97,Parish of St. John,MR/LWAL+DNO/HEX:3,0.6
+AREA # 97,Parish of St. John,MR/LWAL+DUC/HEX:1,0.3
+AREA # 97,Parish of St. John,MR/LWAL+DUC/HEX:2,0.5
+AREA # 97,Parish of St. John,MR/LWAL+DUC/HEX:3,0.2
+AREA # 97,Parish of St. John,MUR/LWAL+DNO/HEX:1,3.4
+AREA # 97,Parish of St. John,MUR/LWAL+DNO/HEX:2,2.8
+AREA # 97,Parish of St. John,W+WLI/LDUAL+DNO/HEX:1,1.1
+AREA # 97,Parish of St. John,W+WLI/LDUAL+DNO/HEX:2,1.6
+AREA # 97,Parish of St. John,W+WLI/LFM+DNO/HEX:2/SOS,0.7
+AREA # 97,Parish of St. John,W+WS/LPB+DNO/HEX:1,0.6
+AREA # 97,Parish of St. John,W+WS/LPB+DNO/HEX:2,0.9
